@@ -2,7 +2,7 @@
 
 Made with AngularJS.
 
-http://bluesuede.github.io/currency-converter/
+https://pavan007x.github.io/MyCurrencyConverter2/
 
 * Uses API from http://fixer.io/
 
